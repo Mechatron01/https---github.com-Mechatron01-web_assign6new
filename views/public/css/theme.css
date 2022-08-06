@@ -1,0 +1,51 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;1,700&family=Pacifico&display=swap');
+
+body {
+    margin: 1%;
+    border: 2pt;
+    border-color: blueviolet;
+}
+
+.boxbody {
+    background-color: whitesmoke;
+    font-size: 18px;
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    font-family: 'Pacifico', cursive; 
+}
+
+h3{
+    font-family: 'Pacifico', cursive;
+}
+
+h4{
+    font-family: 'Pacifico', cursive;
+}
+h5{
+    font-family: 'Pacifico', cursive;
+}
+h6{
+    font-family: 'Pacifico', cursive;
+}
+
+.btn-class{
+    background-color: rgb(145, 145, 218);
+    box-shadow: inset;
+}
+
+.btn-classhover{
+    background-color: rgb(228, 112, 112);
+    box-shadow:inset;
+}
+#example1 {
+    background:lightblue;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
